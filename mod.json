@@ -1,0 +1,17 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "LowGravBloqs",
+    "id": "LowGravBloqs",
+    "author": "xemply",
+    "version": "0.1.0",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.17.1",
+    "description": "Makes it so blocks/bloqs feel lower gravity. Also my first ever beat saber mod!",
+    "modFiles": [
+        "liblowgravbloqs.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_2_3_0.so"
+    ]
+}
